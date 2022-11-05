@@ -1,0 +1,103 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Ravi",
+      "salary": "666666"
+    },
+    {
+      "name": "Test",
+      "salary": "34344",
+      "id": 3
+    },
+    {
+      "name": "Aditya",
+      "salary": "10917",
+      "id": 4
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "title": "React",
+      "name": "java",
+      "description": "avaysuds"
+    },
+    {
+      "id": 3,
+      "title": "Angular"
+    },
+    {
+      "id": 2,
+      "title": "NodeJS"
+    },
+    {
+      "id": 4,
+      "title": ".NET"
+    },
+    {
+      "title": "EmberJS",
+      "id": 5
+    },
+    {
+      "title": "EmberJS",
+      "id": 6
+    }
+  ],
+  "workouts": [
+    {
+      "title": "Military exercise",
+      "cburn": "123",
+      "description": "na",
+      "id": 5,
+      "startTime": "2022-11-04T11:01:47.226Z",
+      "endTime": "2022-11-04T10:41:35.075Z",
+      "TotalCalories": 3464.3893
+    },
+    {
+      "title": "Pull up",
+      "cburn": "1243",
+      "description": "Average",
+      "id": 6,
+      "startTime": "2022-11-04T10:42:34.291Z",
+      "endTime": "2022-11-04T10:42:35.439Z",
+      "TotalCalories": 255.1879
+    },
+    {
+      "title": "Pull down",
+      "cburn": "32515",
+      "description": "good",
+      "id": 8,
+      "startTime": "2022-11-04T10:42:55.300Z",
+      "endTime": "2022-11-04T10:42:57.287Z",
+      "TotalCalories": 1589438.3318333332
+    },
+    {
+      "title": "Push up",
+      "cburn": "3000",
+      "description": "Good",
+      "id": 9,
+      "startTime": "2022-11-04T10:43:08.576Z",
+      "endTime": "2022-11-04T10:43:11.244Z",
+      "TotalCalories": 87484.05
+    },
+    {
+      "title": "Swimming",
+      "cburn": "1234",
+      "description": "Good",
+      "id": 10,
+      "startTime": "2022-11-05T03:28:35.996Z",
+      "endTime": "2022-11-05T03:28:38.833Z",
+      "TotalCalories": 369.72696666666667
+    },
+    {
+      "title": "Pull up",
+      "cburn": "3244",
+      "description": "Average",
+      "id": 11,
+      "startTime": "2022-11-05T03:30:43.713Z",
+      "endTime": "2022-11-05T03:30:46.013Z",
+      "TotalCalories": 787.3188
+    }
+  ]
+}
